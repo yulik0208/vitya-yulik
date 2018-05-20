@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\darrin deyoung\source\repos\interpretator\interpretator\source.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  interpretator.vcxproj -> c:\users\darrin deyoung\source\repos\interpretator\Debug\interpretator.exe
