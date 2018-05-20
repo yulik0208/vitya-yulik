@@ -55,6 +55,7 @@ int main()
 	//todo parse string and add operations or variables to vector 
 	//	if (stat[i].substr(stat[i].find(' ')
 	//
+    //
 	}
 	system("pause");
 	return 0;
